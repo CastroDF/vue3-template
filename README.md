@@ -1,7 +1,5 @@
 # vue3-template
-```
-This a Vue V3 template with Vue Router V4 and VueX V4, along with Ajax
-```
+### This a Vue V3 template with Vue Router V4 and VueX V4, along with Axios
 
 ## Project setup
 ```
